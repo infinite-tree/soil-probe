@@ -37,4 +37,4 @@ ampy --port /dev/ttyUSB0 put main.py /main.py
 
 
 
-![](https://raw.githubusercontent.com/infinite-tree/soil-probe/master/soil-probe.jpeg | width=100)
+![soil-probe](https://raw.githubusercontent.com/infinite-tree/soil-probe/master/soil-probe.jpeg)
